@@ -67,7 +67,11 @@ June 2007 - May 2018
 
 Information technology software, Belarusian State University of
 Informatics and Radioelectronics(BSUIR)  
-September 2011 - May 2016
+September 2011 - May 2016  
+Modern Front-End with JavaScript & HTML5, BelHard Group  
+March 2021 - May 2021
+Front-End development. Advanced level , IBA Institute  
+January 2022 - March 2022
 
 **Languages**
 
