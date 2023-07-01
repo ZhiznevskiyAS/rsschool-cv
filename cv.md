@@ -27,6 +27,7 @@ _development_ _of_ _your_ _company_ _and_ _achieve_ _common_ _goals_.
 **Skills**
 
 Windows/Linux,  
+Python,  
 HTML/CSS/JavaScript,  
 Network, TCP/IP, DNS,  
 SQL/NoSQL,  
